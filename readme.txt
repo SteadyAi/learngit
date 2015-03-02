@@ -17,7 +17,7 @@ Git is a free software,....
 =======
 in dev
 have a test in dev
-
+git --no-ff
 
 
 >>>>>>> dev
