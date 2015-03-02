@@ -14,6 +14,6 @@ Creating a new branch is quick and simple.
 test
 in dev
 have a test in dev
-
+git --no-ff
 
 
