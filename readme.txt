@@ -12,4 +12,12 @@ Creating a new branch is quick AND simple.
 >>>>>>> feature1
 Creating a new branch is quick and simple.
 test
+<<<<<<< HEAD
 Git is a free software,....
+=======
+in dev
+have a test in dev
+
+
+
+>>>>>>> dev
